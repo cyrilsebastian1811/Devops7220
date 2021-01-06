@@ -13,7 +13,7 @@
         "react-globe": "^4.0.0",
         "react-router-dom": "^5.1.2",
         "styled-components": "^5.0.1",
-        "axios": "^0.19.2"
+        "axios": "^0.21.1"
     },
     "scripts": {
         "start": "npm run build:prod",
